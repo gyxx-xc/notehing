@@ -1,0 +1,18 @@
+{
+  "name": "notehing-quick-start",
+  "version": "1.0.0",
+  "description": "A minimal Electron application",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "keywords": [
+    "Electron",
+    "demo"
+  ],
+  "author": "gyx",
+  "license": "GPL",
+  "devDependencies": {
+    "electron": "^27.0.3"
+  }
+}
